@@ -16,7 +16,7 @@ public class RectangleAvecPoint {
 
     // Constructeur par défaut
     public RectangleAvecPoint() {
-        centre = new Point();
+        centre = new Point() ;
         this.longueur = 1.0;
         this.largeur = 1.0;
         this.angle = 0.0;
